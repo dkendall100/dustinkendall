@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="AbstractSmtpTransport.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470720000000" remote="130068470720000000" Dst="2" />
+<file name="EsmtpHandler.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470720000000" remote="130068470720000000" Dst="2" />
+<file name="EsmtpTransport.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470700000000" remote="130068470700000000" Dst="2" />
+<file name="FailoverTransport.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470700000000" remote="130068470700000000" Dst="2" />
+<file name="IoBuffer.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470680000000" remote="130068470680000000" Dst="2" />
+<file name="LoadBalancedTransport.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470680000000" remote="130068470680000000" Dst="2" />
+<file name="MailInvoker.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470660000000" remote="130068470660000000" Dst="2" />
+<file name="MailTransport.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470660000000" remote="130068470660000000" Dst="2" />
+<file name="SendmailTransport.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470640000000" remote="130068470640000000" Dst="2" />
+<file name="SimpleMailInvoker.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470640000000" remote="130068470640000000" Dst="2" />
+<file name="SmtpAgent.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470620000000" remote="130068470620000000" Dst="2" />
+<file name="StreamBuffer.php" server="C:/MAMP/htdocs/OnlineCV/" local="130068470620000000" remote="130068470620000000" Dst="2" />
+</dwsync>
