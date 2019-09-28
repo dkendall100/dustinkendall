@@ -26,7 +26,7 @@
 
 
 <!-- Google Font -->
-<link href='http://fonts.googleapis.com/css?family=Open+Sans%7CLato' rel='stylesheet' type='text/css'>
+<link href='https://fonts.googleapis.com/css?family=Open+Sans%7CLato' rel='stylesheet' type='text/css'>
 
 
 <!-- Primary CSS -->
