@@ -3,7 +3,7 @@
 					<div class="main contactFooter">
 						<section>
 							<div class="logo">
-								<a href="index.hmtl">
+								<a href="index.html">
 									<img src="images/81x73.png" alt="">
 								</a>
 							</div>

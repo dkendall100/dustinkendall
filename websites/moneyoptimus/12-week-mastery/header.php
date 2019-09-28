@@ -17,7 +17,7 @@
             <div class="header-holder tt-logo-center">
                <div class="header-overlay">
                   <div class="header-area">
-                     <a href="../index.hmtl" class="logo"><img src="../images/lbe-logo.png" class="tt-retina-logo" width="154" height="57" /></a>
+                     <a href="../index.html" class="logo"><img src="../images/lbe-logo.png" class="tt-retina-logo" width="154" height="57" /></a>
                      
                      
                      
