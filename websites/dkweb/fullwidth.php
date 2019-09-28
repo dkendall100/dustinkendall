@@ -1,4 +1,4 @@
-<?php include 'header.php'; !important ?>
+<div id="header"></div>
 	<!-- - - - - - - - - - - - - - Content - - - - - - - - - - - - - - - - -->
 
 

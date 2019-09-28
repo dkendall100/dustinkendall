@@ -15,7 +15,7 @@
 <!-- META DATA
 ============================================ -->
 	<link href="/css/style.css" rel="stylesheet" type="text/css" />
-<?php include 'header.php'; !important ?>
+<div id="header"></div>
 	<!-- - - - - - - - - - - - - - Content - - - - - - - - - - - - - - - - -->
 	<style type="text/css">
     .imageborder{
