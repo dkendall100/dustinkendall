@@ -100,7 +100,7 @@ behavior: url(js/PIE/PIE.htc);
                <div class="top-holder">
                
                
-               	  <?php include 'header.php' ?>
+               	  <div id="header"></div>
          
          
          
@@ -261,7 +261,7 @@ behavior: url(js/PIE/PIE.htc);
       
       
       
-   <?php include 'footer.php';?>
+   <div id="footer"></div>
    
    <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us13.list-manage.com","uuid":"fb22db282fec90de3ba8525a9","lid":"a8d322d310"}) })</script>
 

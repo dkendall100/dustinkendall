@@ -9,12 +9,12 @@
 <file name="pricing-tables.html" server="Macintosh HD/Applications/MAMP/htdocs/dkwebllc/" local="3546882654" remote="318763443939779166" Dst="-1" />
 <file name="typography.html" server="Macintosh HD/Applications/MAMP/htdocs/dkwebllc/" local="3546882703" remote="318763443939779215" Dst="-1" />
 <file name="header.php" server="Macintosh HD/Applications/MAMP/htdocs/dkwebllc/" local="3547051658" remote="318763443939948170" Dst="-1" />
-<file name="index.php" server="Macintosh HD/Applications/MAMP/htdocs/dkwebllc/" local="3547050619" remote="318763443939947131" Dst="-1" />
+<file name="index.hmtl" server="Macintosh HD/Applications/MAMP/htdocs/dkwebllc/" local="3547050619" remote="318763443939947131" Dst="-1" />
 <file name="header2.php" server="Macintosh HD/Applications/MAMP/htdocs/dkwebllc/" local="3546888313" remote="318763443939784825" Dst="-1" />
 <file name="columns.html" server="208.117.45.196" local="3548170421" remote="3548869800" Dst="-1" />
 <file name="faq.html" server="208.117.45.196" local="3548170424" remote="3548869800" Dst="-1" />
 <file name="header.php" server="208.117.45.196" local="3548858590" remote="3548869800" Dst="-1" />
-<file name="index.php" server="208.117.45.196" local="3554220107" remote="3554223660" Dst="-1" />
+<file name="index.hmtl" server="208.117.45.196" local="3554220107" remote="3554223660" Dst="-1" />
 <file name="pricing-tables.html" server="208.117.45.196" local="3548170427" remote="3548869800" Dst="-1" />
 <file name="services.php" server="208.117.45.196" local="3546883216" remote="3548869800" Dst="-1" />
 <file name="typography.html" server="208.117.45.196" local="3548170432" remote="3548869800" Dst="-1" />
@@ -29,20 +29,20 @@
 <file name="subheader.php" server="C:/MAMP/htdocs/dkwebllc" local="131086814410000000" remote="131086814410000000" Dst="2" />
 <file name="header.php" server="C:/MAMP/htdocs/dkwebllc/" local="131086804580000000" remote="131086804580000000" Dst="2" />
 <file name="footer.php" server="C:/MAMP/htdocs/dkwebllc/" local="131087640515145847" remote="131087640510000000" Dst="2" />
-<file name="index.php" server="C:/MAMP/htdocs/dkwebllc/" local="131087639224432023" remote="131087639220000000" Dst="2" />
+<file name="index.hmtl" server="C:/MAMP/htdocs/dkwebllc/" local="131087639224432023" remote="131087639220000000" Dst="2" />
 <file name="subheader.php" server="C:/MAMP/htdocs/dkwebllc/" local="131088010075053465" remote="131088010070000000" Dst="2" />
 <file name="services.php" server="C:/MAMP/htdocs/dkwebllc/" local="131085120160000000" remote="131085120160000000" Dst="2" />
 <file name="header2.php" server="C:/MAMP/htdocs/dkwebllc/" local="131085171130000000" remote="131085171130000000" Dst="2" />
 <file name="subheader.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink" local="3547172207" remote="3547172207" Dst="-1" />
 <file name="header.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink" local="3547481544" remote="3547481544" Dst="-1" />
 <file name="footer.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink" local="3547135251" remote="3547135251" Dst="-1" />
-<file name="index.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink" local="3547135122" remote="3547135122" Dst="-1" />
+<file name="index.hmtl" server="Macintosh HD/Applications/MAMP/htdocs/dustink" local="3547135122" remote="3547135122" Dst="-1" />
 <file name="webdesignNWI.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink" local="3547480770" remote="3547480770" Dst="-1" />
 <file name="subheader.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink/" local="3548170434" remote="3548170434" Dst="-1" />
 <file name="search-engine-optimization.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink/" local="3548255236" remote="3548255236" Dst="-1" />
 <file name="header.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink/" local="3548858590" remote="3548858590" Dst="-1" />
 <file name="footer.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink/" local="3548859066" remote="3548859066" Dst="-1" />
-<file name="index.php" server="Macintosh HD/Applications/MAMP/htdocs/dustink/" local="3554220107" remote="3554220107" Dst="-1" />
+<file name="index.hmtl" server="Macintosh HD/Applications/MAMP/htdocs/dustink/" local="3554220107" remote="3554220107" Dst="-1" />
 <file name="footer.php" server="208.117.45.196" local="3548859066" remote="3548869800" Dst="-1" />
 <file name="fullwidth.php" server="208.117.45.196" local="3546890142" remote="3548869800" Dst="-1" />
 <file name="header2.php" server="208.117.45.196" local="3548170426" remote="3548869800" Dst="-1" />
@@ -90,7 +90,7 @@
 <file name="faq.html" server="C:/MAMP/htdocs/OnlineCV/" local="131097992240000000" remote="131097992240000000" Dst="2" />
 <file name="fullwidth.php" server="C:/MAMP/htdocs/OnlineCV/" local="131085189420000000" remote="131085189420000000" Dst="2" />
 <file name="header2.php" server="C:/MAMP/htdocs/OnlineCV/" local="131097992260000000" remote="131097992260000000" Dst="2" />
-<file name="index.php" server="C:/MAMP/htdocs/OnlineCV/" local="131158489080000000" remote="131158489080000000" Dst="2" />
+<file name="index.hmtl" server="C:/MAMP/htdocs/OnlineCV/" local="131158489080000000" remote="131158489080000000" Dst="2" />
 <file name="marketing.php" server="C:/MAMP/htdocs/OnlineCV/" local="131104091580000000" remote="131104091580000000" Dst="2" />
 <file name="pricing-tables.html" server="C:/MAMP/htdocs/OnlineCV/" local="131097992280000000" remote="131097992280000000" Dst="2" />
 <file name="search-engine-optimization.php" server="C:/MAMP/htdocs/OnlineCV/" local="131098840360000000" remote="131098840360000000" Dst="2" />

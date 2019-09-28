@@ -30,7 +30,7 @@
 	
 	<div class="main_content">
 		<div class="boxedWrap">
-        <?php include 'header.php'?>
+        <div id="header"></div>
 <div class="mainWrap without_sidebar">
 		<div class="content">
 					<div class="itemscope" itemscope itemtype="http://schema.org/Article">
@@ -567,7 +567,7 @@
 				 
 				</div>  
 			</div>
-<?php include 'contactfooter.php'?>
+<div id="footer"></div>
 			
 		</div> 
 	</div> 

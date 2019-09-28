@@ -231,7 +231,7 @@
 					<div class="mainmenu_area">
 						<div class="main">
 							<div class="logo logo_left">
-								<a href="index.php">
+								<a href="index.hmtl">
 									<img src="images/logo/illiana-electrical2clear.png" class="logo_main" alt="">
 									<img src="images/logo/illiana-electrical2clear.png" class="logo_fixed" alt="">
 									<span class="logo_slogan">House Repair</span>
@@ -244,7 +244,7 @@
 							<nav role="navigation" class="menuTopWrap topMenuStyleLine">
 								<ul id="mainmenu" class="">
 									<li class="menu-item">
-										<a href="index.php">Home</a>
+										<a href="index.hmtl">Home</a>
 										
 									</li>
 									<!--li class="menu-item menu-item-has-children">

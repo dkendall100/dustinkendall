@@ -94,7 +94,7 @@ behavior: url(js/PIE/PIE.htc);
       
                      
                      
-                    <?php include 'header.php';?>
+                    <div id="header"></div>
          
          
          

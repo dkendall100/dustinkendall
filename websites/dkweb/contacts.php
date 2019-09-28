@@ -65,7 +65,7 @@
 	<!-- - - - - - - - - - - - - - Header - - - - - - - - - - - - - - - - -->	
 
 
-    <?php include 'header.php' ?>
+    <div id="header"></div>
 
 	<!-- - - - - - - - - - - - - end Header - - - - - - - - - - - - - - - -->
 
@@ -220,7 +220,7 @@
 	<!-- - - - - - - - - - - - - end Content - - - - - - - - - - - - - - - -->
 
 
-   <?php include 'footer.php' ?>
+   <div id="footer"></div>
 
 </div><!--/ #wrapper-->
 

@@ -53,7 +53,7 @@
 <body class="header-type-in animated">
 	
 	
-<?php include 'header.php' ?>
+<div id="header"></div>
 
 	<!-- - - - - - - - - - - - - - Content - - - - - - - - - - - - - - - - -->
 
@@ -540,7 +540,7 @@
 	<!-- - - - - - - - - - - - - end Content - - - - - - - - - - - - - - - -->
 
 
-	<?php include 'footer.php' ?>
+	<div id="footer"></div>
 
 	
 </div><!--/ #wrapper-->

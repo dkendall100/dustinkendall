@@ -69,12 +69,12 @@
 
 					<div class="header-in">
 
-						<h1 id="logo"><a href="../index.php">Engorgio</a></h1>
+						<h1 id="logo"><a href="../index.hmtl">Engorgio</a></h1>
 
 						<nav id="navigation" class="navigation">
 
                             <ul>
-                                <li class="current-menu-item"><a href="../index.php">Home</a>
+                                <li class="current-menu-item"><a href="../index.hmtl">Home</a>
 								<!--	<ul>
 										<!--<li><a href="home-text-slider.html">Home Text Slider</a></li>
 										<li><a href="index.html">Home Fullscreen Slider</a></li>

@@ -29,69 +29,69 @@
 		}
 	</style>
 </head>
-<?php include 'header.php';?>
+<div id="header"></div>
 
 
 
 
 			<div id="mainslider_1" class="sliderHomeBullets staticSlider slider_engine_revo slider_alias_rev-hr2">
 				<div id="rev_slider_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
-					
+
 					<div id="rev_slider_1" class="rev_slider fullwidthabanner">
 						<ul>
 							<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="images/slider/320x200.png" data-saveperformance="off" data-title="Slide">
-								
+
 								<img src="images/slider/comercial-lights-electrical-services.png" alt="slide2_1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-								
-								
+
+
 								<div class="tp-caption hr-sl2-text sfl tp-resizeme" data-x="right" data-hoffset="-27" data-y="center" data-voffset="-137" data-speed="500" data-start="500" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Proper Lighting<br/>
 								</div>
-								
+
 								<div class="tp-caption hr-sl2-text sft tp-resizeme" data-x="right" data-hoffset="-107" data-y="center" data-voffset="-68" data-speed="500" data-start="1000" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">For Commercial<br/>
 								</div>
-								
+
 								<div class="tp-caption hr-sl2-text sfr tp-resizeme" data-x="right" data-hoffset="-129" data-y="center" data-voffset="0" data-speed="500" data-start="1500" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Applications<br/>
 								</div>
-								
+
 								<!--(USE FOR MORE WORDS IN COMMERCIAL LIGHTING SLIDER)<div class="tp-caption hr-sl2-text sfb tp-resizeme" data-x="right" data-hoffset="-43" data-y="center" data-voffset="68" data-speed="500" data-start="2000" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><br/>
 								</div>
-								
+
 								<div class="tp-caption hr-sl2-text sfl tp-resizeme" data-x="right" data-hoffset="-11" data-y="center" data-voffset="135" data-speed="500" data-start="2500" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
 								</div>-->
                                 <div class="tp-caption hrsl1btn sfb tp-resizeme" data-x="right" data-hoffset="-321" data-y="bottom" data-voffset="-55" data-speed="500" data-start="2000" data-easing="Bounce.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
 									<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
 										<a href="contacts.php" class="">Contact Now</a>
 							</li>
-							
+
 							<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="images/slider/320x200.png" data-saveperformance="off" data-title="Slide">
-								
+
 								<img src="images/slider/Electrical_switchgear.JPG" alt="slide2_2" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-								
-								
+
+
 								<div class="tp-caption hr-sl2-text tp-fade tp-resizeme" data-x="right" data-hoffset="-10" data-y="center" data-voffset="-25" data-speed="1500" data-start="500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Bringing Power<br/>
 									To Factories<br/>
 									And Industry<br/>
 									<br/>
 								</div>
-								
+
 								<div class="tp-caption hrsl1btn sfb tp-resizeme" data-x="right" data-hoffset="-321" data-y="bottom" data-voffset="-55" data-speed="500" data-start="2000" data-easing="Bounce.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
 									<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
 										<a href="contacts.php" class="">Contact Now</a>
 									</div>
 								</div>
 							</li>
-							
+
 							<li data-transition="slideup,slidedown,slideright,slideleft,fade,zoomout,zoomin" data-slotamount="7" data-masterspeed="300" data-thumb="images/slider/320x200.png" data-saveperformance="off" data-title="Slide">
-								
+
 								<img src="images/slider/natural-elegant-design-exterior-architectural-lighting-that-has-modern-lighting-can-add-the-beauty-inside-modern-house-design-ideas-with-green-grass-in-front-1050x616.jpg" alt="slide2_3" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
-								
-								
+
+
 								<div class="tp-caption hr-sl2-text randomrotate tp-resizeme" data-x="right" data-hoffset="-10" data-y="center" data-voffset="-35" data-speed="1500" data-start="500" data-easing="easeInOutBack" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Lighting Up Northwest<br/>
 									Indiana Since<br/>
 									 1995<br/>
-									
+
 								</div>
-								
+
 								<div class="tp-caption hrsl1btn sfb tp-resizeme" data-x="right" data-hoffset="-321" data-y="bottom" data-voffset="-55" data-speed="500" data-start="2000" data-easing="Bounce.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
 									<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
 										<a href="contacts.php" class="">Contact Now</a>
@@ -112,7 +112,7 @@
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="wpb_column vc_column_container vc_col-sm-12">
 											<div class="wpb_wrapper">
-                                            
+
 												<div class="sc_content main">
 													<h1 class="sc_title sc_aligncenter sc_title_regular" data-animation="animated fadeInUp">Electrical Services</h1>
 													<h3 class="sc_undertitle sc_aligncenter sc_title_regular margin_bottom_small" data-animation="animated fadeInUp"><!--Insert tag line here--></h3>
@@ -154,7 +154,7 @@
 																	</div>
 																</a>
 															</div>
-                                                            
+
 															<!--<div class="columns1_3 sc_column_item sc_column_item_2 even">
 																<a href="features_pages_service.html">
 																	<div class="sc_section">
@@ -393,9 +393,9 @@
 											</div>
 										</div>
 									</div>-->
-									
-									
-									
+
+
+
 									<div class="vc_row wpb_row vc_row-fluid">
 										<div class="wpb_column vc_column_container vc_col-sm-12">
 											<div class="wpb_wrapper">
@@ -411,7 +411,7 @@
 																</div>
 															<!--</div>-->
 															<!--<div class="columns1_2 sc_column_item sc_column_item_2 even" data-animation="animated fadeInUp">
-																
+
 														  </div>-->
 																	<!--</div>-->
 </div>
@@ -424,8 +424,8 @@
 											</div>
 										</div>
 									</div>
-							<?php include 'contactfooter.php'?>
-	
+							<div id="footer"></div>
+
 
 	<script type='text/javascript' src='js/vendor/jquery.js'></script>
 	<script type='text/javascript' src='js/vendor/jquery-migrate.min.js'></script>
