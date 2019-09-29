@@ -242,7 +242,7 @@
 					<div class="col-sm-8 col-sm-push-2 col-sm-pull-2">
 
 						<h3 class="simple-title align-center">
-							34789 Magic City Avenue, Los Angeles, CA, 94048, United States <br/>
+							<!--34789 Magic City Avenue, Los Angeles, CA, 94048, United States--> <br/>
 							Call: <a href="#">219-413-1363</a> E-mail: <a href="#">dustin@dkwebllc.com</a>
 						</h3>
 
