@@ -1,0 +1,2 @@
+[23-May-2016 21:50:59 UTC] PHP Warning:  include(header2.php): failed to open stream: No such file or directory in /home/djk007/public_html/new.dkwebllc.com/index.php on line 1
+[23-May-2016 21:50:59 UTC] PHP Warning:  include(): Failed opening 'header2.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/djk007/public_html/new.dkwebllc.com/index.php on line 1
