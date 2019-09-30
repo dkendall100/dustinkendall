@@ -1,7 +1,7 @@
 <?php
 
 // configure
-$from = 'Contact form <auto@dustinkendall.com>';
+$from = 'auto@dustinkendall.com';
 $sendTo = 'dkendall100@gmail.com';
 $subject = 'New message from contact form';
 $fields = array('name' => 'Name', 'email' => 'Email', 'message' => 'Message'); // array variable name => Text to appear in the email
