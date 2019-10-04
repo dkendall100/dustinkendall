@@ -781,8 +781,15 @@ body > footer .copyrights {
   font-size: 21px;
   margin: 5px 0 25px;
 }
+.block-title h2 {
+  font-size: 33px;
+  margin: 5px 0 25px;
+}
 
 .block-title h3 span {
+  color: #29B6F6;
+}
+.block-title h2 span {
   color: #29B6F6;
 }
 
