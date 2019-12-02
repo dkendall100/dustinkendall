@@ -1,0 +1,444 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+	<meta name="format-detection" content="telephone=no">
+	<title>Illiana Electrical Services</title>
+	<link rel="icon" type="image/png" href="images/81x73.png"/>
+	<link rel='stylesheet' id='rs-plugin-settings-css' href='js/vendor/rs-plugin/css/settings.css' type='text/css' media='all'/>
+	<style id='rs-plugin-settings-inline-css' type='text/css'></style>
+	<link rel='stylesheet' id='fontello-css' href='css/fontello/css/fontello.css' type='text/css' media='all'/>
+	<link rel='stylesheet' id='animation-css' href='css/fontello/css/animation.css' type='text/css' media='all'/>
+	<link rel='stylesheet' href='css/__packed.css' type='text/css' media='all'/>
+	<link rel='stylesheet' id='main-style-css' href='css/style.css' type='text/css' media='all'/>
+	<link rel='stylesheet' id='shortcodes-css' href='css/shortcodes.css' type='text/css' media='all'/>
+	<link rel='stylesheet' id='theme-skin-css' href='css/default.css' type='text/css' media='all'/>
+	<style id='theme-skin-inline-css' type='text/css'></style>
+	<link rel='stylesheet' id='responsive-css' href='css/responsive.css' type='text/css' media='all'/>
+
+	<!--<link rel='stylesheet' href='custom_tools/css/custom_tools.css' type='text/css' media='all'/>-->
+	<!--[if lt IE 9]>
+		<script src="js/vendor/html5.js" type="text/javascript">
+	</script>
+	<![endif]-->
+    <style type="text/css">
+	div ul li div {
+		color: #fff;
+    text-shadow: 1px 0 0 #000, 0 -1px 0 #000, 0 1px 0 #000, -1px 0 0 #000;
+		}
+	</style>
+</head>
+<div id="header"></div>
+
+
+
+
+			<div id="mainslider_1" class="sliderHomeBullets staticSlider slider_engine_revo slider_alias_rev-hr2">
+				<div id="rev_slider_1_wrapper" class="rev_slider_wrapper fullwidthbanner-container">
+
+					<div id="rev_slider_1" class="rev_slider fullwidthabanner">
+						<ul>
+							<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="images/slider/320x200.png" data-saveperformance="off" data-title="Slide">
+
+								<img src="images/slider/comercial-lights-electrical-services.png" alt="slide2_1" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+
+								<div class="tp-caption hr-sl2-text sfl tp-resizeme" data-x="right" data-hoffset="-27" data-y="center" data-voffset="-137" data-speed="500" data-start="500" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Proper Lighting<br/>
+								</div>
+
+								<div class="tp-caption hr-sl2-text sft tp-resizeme" data-x="right" data-hoffset="-107" data-y="center" data-voffset="-68" data-speed="500" data-start="1000" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">For Commercial<br/>
+								</div>
+
+								<div class="tp-caption hr-sl2-text sfr tp-resizeme" data-x="right" data-hoffset="-129" data-y="center" data-voffset="0" data-speed="500" data-start="1500" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Applications<br/>
+								</div>
+
+								<!--(USE FOR MORE WORDS IN COMMERCIAL LIGHTING SLIDER)<div class="tp-caption hr-sl2-text sfb tp-resizeme" data-x="right" data-hoffset="-43" data-y="center" data-voffset="68" data-speed="500" data-start="2000" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300"><br/>
+								</div>
+
+								<div class="tp-caption hr-sl2-text sfl tp-resizeme" data-x="right" data-hoffset="-11" data-y="center" data-voffset="135" data-speed="500" data-start="2500" data-easing="Strong.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+								</div>-->
+                                <div class="tp-caption hrsl1btn sfb tp-resizeme" data-x="right" data-hoffset="-321" data-y="bottom" data-voffset="-55" data-speed="500" data-start="2000" data-easing="Bounce.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+									<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
+										<a href="contacts.php" class="">Contact Now</a>
+							</li>
+
+							<li data-transition="random" data-slotamount="7" data-masterspeed="300" data-thumb="images/slider/320x200.png" data-saveperformance="off" data-title="Slide">
+
+								<img src="images/slider/Electrical_switchgear.JPG" alt="slide2_2" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+
+								<div class="tp-caption hr-sl2-text tp-fade tp-resizeme" data-x="right" data-hoffset="-10" data-y="center" data-voffset="-25" data-speed="1500" data-start="500" data-easing="Power3.easeInOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Bringing Power<br/>
+									To Factories<br/>
+									And Industry<br/>
+									<br/>
+								</div>
+
+								<div class="tp-caption hrsl1btn sfb tp-resizeme" data-x="right" data-hoffset="-321" data-y="bottom" data-voffset="-55" data-speed="500" data-start="2000" data-easing="Bounce.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+									<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
+										<a href="contacts.php" class="">Contact Now</a>
+									</div>
+								</div>
+							</li>
+
+							<li data-transition="slideup,slidedown,slideright,slideleft,fade,zoomout,zoomin" data-slotamount="7" data-masterspeed="300" data-thumb="images/slider/320x200.png" data-saveperformance="off" data-title="Slide">
+
+								<img src="images/slider/natural-elegant-design-exterior-architectural-lighting-that-has-modern-lighting-can-add-the-beauty-inside-modern-house-design-ideas-with-green-grass-in-front-1050x616.jpg" alt="slide2_3" data-bgposition="center top" data-bgfit="cover" data-bgrepeat="no-repeat">
+
+
+								<div class="tp-caption hr-sl2-text randomrotate tp-resizeme" data-x="right" data-hoffset="-10" data-y="center" data-voffset="-35" data-speed="1500" data-start="500" data-easing="easeInOutBack" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">Lighting Up Northwest<br/>
+									Indiana Since<br/>
+									 1995<br/>
+
+								</div>
+
+								<div class="tp-caption hrsl1btn sfb tp-resizeme" data-x="right" data-hoffset="-321" data-y="bottom" data-voffset="-55" data-speed="500" data-start="2000" data-easing="Bounce.easeOut" data-splitin="none" data-splitout="none" data-elementdelay="0.1" data-endelementdelay="0.1" data-endspeed="300">
+									<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
+										<a href="contacts.php" class="">Contact Now</a>
+									</div>
+								</div>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+
+			<div class="mainWrap without_sidebar">
+				<div class="content">
+					<div class="itemscope" itemscope itemtype="http://schema.org/Article">
+						<section class="post postAlter no_margin page type-page status-publish hentry">
+							<article class="post_content">
+								<div class="post_text_area" itemprop="articleBody">
+									<div class="vc_row wpb_row vc_row-fluid">
+										<div class="wpb_column vc_column_container vc_col-sm-12">
+											<div class="wpb_wrapper">
+
+												<div class="sc_content main">
+													<h1 class="sc_title sc_aligncenter sc_title_regular" data-animation="animated fadeInUp">Electrical Services</h1>
+													<h3 class="sc_undertitle sc_aligncenter sc_title_regular margin_bottom_small" data-animation="animated fadeInUp"><!--Insert tag line here--></h3>
+													<div class="sc_section sc_aligncenter">
+														<div class="columnsWrap sc_columns sc_columns_count_3 margin_bottom_big" data-animation="animated fadeInUp">
+                                                        <div class="columns1_3 sc_column_item sc_column_item_2 even">
+																<a href="residential-electrician.php">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-electric38 sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Residential </h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																			  <p>We keep everything up to code while installing switches. dimmers, outlets, recessed lighting, light fixture installation, ceiling fans, ground fault outlet installation. Our services will meet your satisfaction. </p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+															<div class="columns1_3 sc_column_item sc_column_item_1 odd first">
+																<a href="commercial-electrician.php">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-tools sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Commercial </h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																				<p>We specialize in Commercial Lighting, <br/>Ballast Replacements,<br> Panel Installation/Replacement,<br> 220V Outlet Installation, <br/>UPS Power Systems&#8230;</p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+
+															<!--<div class="columns1_3 sc_column_item sc_column_item_2 even">
+																<a href="features_pages_service.html">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-wired sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Wiring</h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																				<p>Electrical. Cable TV. Internet. Network. Low<br/> Voltage. Door Bells. Home Theater. Sprinkler<br/> Systems. Phone Jacks. Computers.</p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>-->
+															<div class="columns1_3 sc_column_item sc_column_item_3 odd">
+																<a href="industrial-electrician.php">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-construction3 sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Industrial</h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																			  <p>Our expertise include machine wiring, 3 phase systems, conduit, new construction, safety, and above all else we provide quality finished products to all of our clients. </p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</div>
+														<!--<div class="columnsWrap sc_columns sc_columns_count_3" data-animation="animated fadeInUp">
+															<div class="columns1_3 sc_column_item sc_column_item_1 odd first">
+																<a href="features_pages_service.html">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-widescreen sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Audio/Visual</h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																				<p>Home Theater Installation. Flat Panel TV<br/> Installation. Projectors. Sound Systems.<br/> Surround Sound.</p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+															<div class="columns1_3 sc_column_item sc_column_item_2 even">
+																<a href="features_pages_service.html">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-electric38 sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Residential </h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																				<p>Switches. Dimmers. Outlets. Recessed<br/> Lighting. Light Fixture Installation. Ceiling<br/> Fans. Ground Fault Outlet Installation.</p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+															<div class="columns1_3 sc_column_item sc_column_item_3 odd">
+																<a href="features_pages_service.html">
+																	<div class="sc_section">
+																		<div class="sc_title_icon_animated">
+																			<div class="sc_title_icon sc_title_top sc_size_medium icon-faucet1 sc_title_bg sc_bg_animated">
+																			</div>
+																			<h5 class="sc_title sc_title_iconed">Plumbing</h5>
+																		</div>
+																	</div>
+																	<div class="sc_section ">
+																		<div class="wpb_text_column wpb_content_element ">
+																			<div class="wpb_wrapper">
+																				<p>Leaks Repaired. Faucet Installation. Toilet<br/> Repair/Replacement. Faucet Leaks. Shut Off<br/> Valves. Kitchens. Toilet Repairs&#8230;</p>
+																			</div>
+																		</div>
+																	</div>
+																</a>
+															</div>
+														</div>-->
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+									<div class="vc_row wpb_row vc_row-fluid">
+										<div class="wpb_column vc_column_container vc_col-sm-12">
+											<div class="wpb_wrapper">
+												<div class="sc_section grey_section"></div>
+											</div>
+										</div>
+									</div>
+									<!--<div class="vc_row wpb_row vc_row-fluid">
+										<div class="wpb_column vc_column_container vc_col-sm-12">
+											<div class="wpb_wrapper">
+												<div class="sc_content main">
+													<h1 class="sc_title sc_title_regular sc_aligncenter margin_bottom_mini" data-animation="animated fadeInUp">Projects</h1>
+													<div class="sc_section sc_aligncenter" data-animation="animated fadeInUp">
+														<div class="sc_blogger sc_blogger_horizontal style_portfolio3 portfolioWrap">
+															<div class="isotopeFiltr">
+																<ul>
+																	<li class="squareButton active">
+																		<a href="#" data-filter="*">All</a>
+																	</li>
+																	<li class="squareButton">
+																		<a href="#" data-filter=".flt_252">living rooms</a>
+																	</li>
+																	<li class="squareButton">
+																		<a href="#" data-filter=".flt_253">kitchens</a>
+																	</li>
+																	<li class="squareButton">
+																		<a href="#" data-filter=".flt_251">buildings</a>
+																	</li>
+																	<li class="squareButton">
+																		<a href="#" data-filter=".flt_250">exterior design</a>
+																	</li>
+																</ul>
+															</div>
+															<section class="portfolio isotope folio3col" data-columns="3">
+																<article class="isotopeElement hover_Shift odd flt_252">
+																	<div class="ih-item colored square effect6 scale_up">
+																		<a href="#">
+																			<div class="img">
+																				<img alt="Living Room Staircases" src="images/350x252.png">
+																			</div>
+																			<div class="info">
+																				<div class="info-back">
+																					<h4>Living Room Staircases</h4>
+																					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod... </p>
+																					<div class="link-wrapper">View</div>
+																				</div>
+																			</div>
+																		</a>
+																	</div>
+																</article>
+																<article class="isotopeElement hover_Shift even flt_253">
+																	<div class="ih-item colored square effect6 scale_up">
+																		<a href="#">
+																			<div class="img">
+																				<img alt="Kitchen Design Ideas" src="images/350x252.png">
+																			</div>
+																			<div class="info">
+																				<div class="info-back">
+																					<h4>Kitchen Design Ideas</h4>
+																					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod... </p>
+																					<div class="link-wrapper">View</div>
+																				</div>
+																			</div>
+																		</a>
+																	</div>
+																</article>
+																<article class="isotopeElement hover_Shift odd flt_253 flt_252">
+																	<div class="ih-item colored square effect6 scale_up">
+																		<a href="#">
+																			<div class="img">
+																				<img alt="10 Design Lessons" src="images/350x252.png">
+																			</div>
+																			<div class="info">
+																				<div class="info-back">
+																					<h4>10 Design Lessons</h4>
+																					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod... </p>
+																					<div class="link-wrapper">View</div>
+																				</div>
+																			</div>
+																		</a>
+																	</div>
+																</article>
+																<article class="isotopeElement hover_Shift even flt_252">
+																	<div class="ih-item colored square effect6 scale_up">
+																		<a href="#">
+																			<div class="img">
+																				<img alt="Exterior Design Ideas" src="images/350x252.png">
+																			</div>
+																			<div class="info">
+																				<div class="info-back">
+																					<h4>Exterior Design Ideas</h4>
+																					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod... </p>
+																					<div class="link-wrapper">View</div>
+																				</div>
+																			</div>
+																		</a>
+																	</div>
+																</article>
+																<article class="isotopeElement hover_Shift odd flt_252">
+																	<div class="ih-item colored square effect6 scale_up">
+																		<a href="#">
+																			<div class="img">
+																				<img alt="Interior Design Ideas" src="images/350x252.png">
+																			</div>
+																			<div class="info">
+																				<div class="info-back">
+																					<h4>Interior Design Ideas</h4>
+																					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod... </p>
+																					<div class="link-wrapper">View</div>
+																				</div>
+																			</div>
+																		</a>
+																	</div>
+																</article>
+																<article class="isotopeElement hover_Shift even last flt_251 flt_250">
+																	<div class="ih-item colored square effect6 scale_up">
+																		<a href="#">
+																			<div class="img">
+																				<img alt="Bedroom Design Ideas" src="images/350x252.png">
+																			</div>
+																			<div class="info">
+																				<div class="info-back">
+																					<h4>Bedroom Design Ideas</h4>
+																					<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod... </p>
+																					<div class="link-wrapper">View</div>
+																				</div>
+																			</div>
+																		</a>
+																	</div>
+																</article>
+															</section>
+														</div>
+														<div class="sc_button sc_button_style_global sc_button_size_medium squareButton global medium">
+															<a href="#" class="">VIEW MORE</a>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>-->
+
+
+
+									<div class="vc_row wpb_row vc_row-fluid">
+										<div class="wpb_column vc_column_container vc_col-sm-12">
+											<div class="wpb_wrapper">
+												<div class="sc_section grey_section">
+													<div class="sc_content main margin_top_small">
+														<!--<div class="columnsWrap sc_columns sc_columns_count_1">-->
+															<!--<div class="columns1_2 sc_column_item sc_column_item_1 odd first" data-animation="animated fadeInUp">-->
+																<h3 class="sc_undertitle sc_title_regular" align="center">WHY CHOOSE US</h3>
+																<div class="wpb_text_column wpb_content_element ">
+																	<div style="padding-left:40px; padding-right:40px"class="wpb_wrapper">
+																		<p style="text-align:center">Illiana Electrical Services has over a decade of experience in installing, repairing, and replacing electrical equipment. Our engineering experience brings an extra level of quality, scrutiny, and rigorous standards. </p>
+																	</div>
+																</div>
+															<!--</div>-->
+															<!--<div class="columns1_2 sc_column_item sc_column_item_2 even" data-animation="animated fadeInUp">
+
+														  </div>-->
+																	<!--</div>-->
+</div>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</div>
+										</div>
+									</div>
+							<div id="footer"></div>
+
+
+	<script type='text/javascript' src='js/vendor/jquery.js'></script>
+	<script type='text/javascript' src='js/vendor/jquery-migrate.min.js'></script>
+	<script type='text/javascript' src='js/vendor/rs-plugin/js/jquery.themepunch.tools.min.js'></script>
+	<script type='text/javascript' src='js/vendor/rs-plugin/js/jquery.themepunch.revolution.min.js'></script>
+
+	<script type='text/javascript' src='js/custom/_main.js'></script>
+	<script type='text/javascript' src='js/vendor/__packed.js'></script>
+	<script type='text/javascript' src='js/custom/shortcodes_init.min.js'></script>
+	<script type='text/javascript' src='js/custom/_utils.min.js'></script>
+	<script type='text/javascript' src='js/custom/_front.min.js'></script>
+
+	<!--<script type='text/javascript' src='custom_tools/js/_customizer.js'></script>-->
+
+</body>
+</html>
